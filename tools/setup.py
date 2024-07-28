@@ -29,7 +29,7 @@ def is_min_path(path):
 
 def get_directories():
     items = os.listdir(PHOTO_PATH)
-    return list(filter(lambda x: os.path.isdir(PHOTO_PATH + '/' + x), items))
+    return list(filter(lambda x: os.path.isdir(os.path.join(PHOTO_PATH, x)) and x != ".ipynb_checkpoints", items))
 
 
 def is_image_path(path):

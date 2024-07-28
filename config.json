@@ -5,7 +5,7 @@
       "height": 4012,
       "path": "./photos/Film_Photograph/457909010012.jpg",
       "compressed_path": "./photos/Film_Photograph/457909010012.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/457909010012.placeholder.jpg"
     },
     {
@@ -13,7 +13,7 @@
       "height": 4120,
       "path": "./photos/Film_Photograph/457909010011.jpg",
       "compressed_path": "./photos/Film_Photograph/457909010011.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/457909010011.placeholder.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "height": 1840,
       "path": "./photos/Film_Photograph/000009060005.jpg",
       "compressed_path": "./photos/Film_Photograph/000009060005.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/000009060005.placeholder.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "height": 4236,
       "path": "./photos/Film_Photograph/457909020005.jpg",
       "compressed_path": "./photos/Film_Photograph/457909020005.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/457909020005.placeholder.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "height": 4760,
       "path": "./photos/Film_Photograph/733534010012.jpg",
       "compressed_path": "./photos/Film_Photograph/733534010012.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/733534010012.placeholder.jpg"
     },
     {
@@ -45,7 +45,7 @@
       "height": 4493,
       "path": "./photos/Film_Photograph/381416010007.jpg",
       "compressed_path": "./photos/Film_Photograph/381416010007.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/381416010007.placeholder.jpg"
     },
     {
@@ -53,50 +53,8 @@
       "height": 4760,
       "path": "./photos/Film_Photograph/381416010002.jpg",
       "compressed_path": "./photos/Film_Photograph/381416010002.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Film_Photograph/381416010002.placeholder.jpg"
-    }
-  ],
-  "Los_Angeles": [
-    {
-      "width": 6240,
-      "height": 4160,
-      "path": "./photos/Los_Angeles/KDRaw__DSF2888-Enhanced-NR.jpg",
-      "compressed_path": "./photos/Los_Angeles/KDRaw__DSF2888-Enhanced-NR.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Los_Angeles/KDRaw__DSF2888-Enhanced-NR.placeholder.jpg"
-    },
-    {
-      "width": 3869,
-      "height": 5159,
-      "path": "./photos/Los_Angeles/_DSF1413.jpg",
-      "compressed_path": "./photos/Los_Angeles/_DSF1413.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Los_Angeles/_DSF1413.placeholder.jpg"
-    },
-    {
-      "width": 5547,
-      "height": 4160,
-      "path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.jpg",
-      "compressed_path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.placeholder.jpg"
-    },
-    {
-      "width": 6240,
-      "height": 4160,
-      "path": "./photos/Los_Angeles/_DSF9441-Enhanced-NR.jpg",
-      "compressed_path": "./photos/Los_Angeles/_DSF9441-Enhanced-NR.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Los_Angeles/_DSF9441-Enhanced-NR.placeholder.jpg"
-    },
-    {
-      "width": 6240,
-      "height": 4160,
-      "path": "./photos/Los_Angeles/_DSF9497.jpg",
-      "compressed_path": "./photos/Los_Angeles/_DSF9497.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Los_Angeles/_DSF9497.placeholder.jpg"
     }
   ]
 }
