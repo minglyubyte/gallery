@@ -3,10 +3,10 @@
     {
       "width": 1500,
       "height": 2000,
-      "path": "./photos/Los Angeles/_DSF0900.jpg",
-      "compressed_path": "./photos/Los Angeles/_DSF0900.min.jpg",
+      "path": "./photos/Los Angeles/DSF0900.jpg",
+      "compressed_path": "./photos/Los Angeles/DSF0900.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Los Angeles/_DSF0900.placeholder.jpg"
+      "placeholder_path": "./photos/Los Angeles/DSF0900.placeholder.jpg"
     },
     {
       "width": 2000,
