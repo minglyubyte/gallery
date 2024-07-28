@@ -2,35 +2,35 @@
   "Los Angeles": [
     {
       "width": 4000,
-      "height": 4000,
-      "path": "./photos/Los Angeles/DSF3952.jpg",
-      "compressed_path": "./photos/Los Angeles/DSF3952.min.jpg",
+      "height": 2667,
+      "path": "./photos/Los Angeles/9441.jpg",
+      "compressed_path": "./photos/Los Angeles/9441.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Los Angeles/DSF3952.placeholder.jpg"
+      "placeholder_path": "./photos/Los Angeles/9441.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 4000,
+      "path": "./photos/Los Angeles/3952.jpg",
+      "compressed_path": "./photos/Los Angeles/3952.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Los Angeles/3952.placeholder.jpg"
     },
     {
       "width": 2667,
       "height": 4000,
-      "path": "./photos/Los Angeles/DSF6354.jpg",
-      "compressed_path": "./photos/Los Angeles/DSF6354.min.jpg",
+      "path": "./photos/Los Angeles/6354.jpg",
+      "compressed_path": "./photos/Los Angeles/6354.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Los Angeles/DSF6354.placeholder.jpg"
+      "placeholder_path": "./photos/Los Angeles/6354.placeholder.jpg"
     },
     {
       "width": 3000,
       "height": 4000,
-      "path": "./photos/Los Angeles/DSF0900.jpg",
-      "compressed_path": "./photos/Los Angeles/DSF0900.min.jpg",
+      "path": "./photos/Los Angeles/0900.jpg",
+      "compressed_path": "./photos/Los Angeles/0900.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Los Angeles/DSF0900.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 2667,
-      "path": "./photos/Los Angeles/DSF9441-Enhanced-NR.jpg",
-      "compressed_path": "./photos/Los Angeles/DSF9441-Enhanced-NR.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Los Angeles/DSF9441-Enhanced-NR.placeholder.jpg"
+      "placeholder_path": "./photos/Los Angeles/0900.placeholder.jpg"
     }
   ],
   "Film Photograph": [
