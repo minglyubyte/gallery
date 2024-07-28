@@ -1,4 +1,14 @@
 {
+  "Los Angeles": [
+    {
+      "width": 4000,
+      "height": 4000,
+      "path": "./photos/Los Angeles/1.jpg",
+      "compressed_path": "./photos/Los Angeles/1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Los Angeles/1.placeholder.jpg"
+    }
+  ],
   "Film Photograph": [
     {
       "width": 4012,
