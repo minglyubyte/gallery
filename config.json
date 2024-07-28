@@ -1,60 +1,61 @@
 {
-  "Film_Photograph": [
+  "Los Angeles": [],
+  "Film Photograph": [
     {
       "width": 4012,
       "height": 4012,
-      "path": "./photos/Film_Photograph/457909010012.jpg",
-      "compressed_path": "./photos/Film_Photograph/457909010012.min.jpg",
+      "path": "./photos/Film Photograph/457909010012.jpg",
+      "compressed_path": "./photos/Film Photograph/457909010012.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/457909010012.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/457909010012.placeholder.jpg"
     },
     {
       "width": 4120,
       "height": 4120,
-      "path": "./photos/Film_Photograph/457909010011.jpg",
-      "compressed_path": "./photos/Film_Photograph/457909010011.min.jpg",
+      "path": "./photos/Film Photograph/457909010011.jpg",
+      "compressed_path": "./photos/Film Photograph/457909010011.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/457909010011.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/457909010011.placeholder.jpg"
     },
     {
       "width": 1840,
       "height": 1840,
-      "path": "./photos/Film_Photograph/000009060005.jpg",
-      "compressed_path": "./photos/Film_Photograph/000009060005.min.jpg",
+      "path": "./photos/Film Photograph/000009060005.jpg",
+      "compressed_path": "./photos/Film Photograph/000009060005.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/000009060005.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/000009060005.placeholder.jpg"
     },
     {
       "width": 4236,
       "height": 4236,
-      "path": "./photos/Film_Photograph/457909020005.jpg",
-      "compressed_path": "./photos/Film_Photograph/457909020005.min.jpg",
+      "path": "./photos/Film Photograph/457909020005.jpg",
+      "compressed_path": "./photos/Film Photograph/457909020005.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/457909020005.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/457909020005.placeholder.jpg"
     },
     {
       "width": 4760,
       "height": 4760,
-      "path": "./photos/Film_Photograph/733534010012.jpg",
-      "compressed_path": "./photos/Film_Photograph/733534010012.min.jpg",
+      "path": "./photos/Film Photograph/733534010012.jpg",
+      "compressed_path": "./photos/Film Photograph/733534010012.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/733534010012.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/733534010012.placeholder.jpg"
     },
     {
       "width": 4493,
       "height": 4493,
-      "path": "./photos/Film_Photograph/381416010007.jpg",
-      "compressed_path": "./photos/Film_Photograph/381416010007.min.jpg",
+      "path": "./photos/Film Photograph/381416010007.jpg",
+      "compressed_path": "./photos/Film Photograph/381416010007.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/381416010007.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/381416010007.placeholder.jpg"
     },
     {
       "width": 4760,
       "height": 4760,
-      "path": "./photos/Film_Photograph/381416010002.jpg",
-      "compressed_path": "./photos/Film_Photograph/381416010002.min.jpg",
+      "path": "./photos/Film Photograph/381416010002.jpg",
+      "compressed_path": "./photos/Film Photograph/381416010002.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Film_Photograph/381416010002.placeholder.jpg"
+      "placeholder_path": "./photos/Film Photograph/381416010002.placeholder.jpg"
     }
   ]
 }
