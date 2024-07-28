@@ -75,8 +75,16 @@
       "placeholder_path": "./photos/Los_Angeles/_DSF1413.placeholder.jpg"
     },
     {
+      "width": 5547,
+      "height": 4160,
+      "path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.jpg",
+      "compressed_path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Los_Angeles/KDRaw__DSF3278-Enhanced-NR.placeholder.jpg"
+    },
+    {
       "width": 6240,
-      "height": 2655,
+      "height": 4160,
       "path": "./photos/Los_Angeles/_DSF9441-Enhanced-NR.jpg",
       "compressed_path": "./photos/Los_Angeles/_DSF9441-Enhanced-NR.min.jpg",
       "compressed": false,
@@ -84,12 +92,11 @@
     },
     {
       "width": 6240,
-      "height": 2655,
+      "height": 4160,
       "path": "./photos/Los_Angeles/_DSF9497.jpg",
       "compressed_path": "./photos/Los_Angeles/_DSF9497.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Los_Angeles/_DSF9497.placeholder.jpg"
     }
-  ],
-  ".ipynb_checkpoints": []
+  ]
 }
