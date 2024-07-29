@@ -9,6 +9,22 @@
       "placeholder_path": "./photos/Los Angeles/DSF0900.placeholder.jpg"
     },
     {
+      "width": 2250,
+      "height": 3000,
+      "path": "./photos/Los Angeles/DSF3390.jpg",
+      "compressed_path": "./photos/Los Angeles/DSF3390.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Los Angeles/DSF3390.placeholder.jpg"
+    },
+    {
+      "width": 2250,
+      "height": 3000,
+      "path": "./photos/Los Angeles/DSF7690.jpg",
+      "compressed_path": "./photos/Los Angeles/DSF7690.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Los Angeles/DSF7690.placeholder.jpg"
+    },
+    {
       "width": 2000,
       "height": 2000,
       "path": "./photos/Los Angeles/2.jpg",
