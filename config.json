@@ -1,4 +1,62 @@
 {
+  "Orange Fantasy": [
+    {
+      "width": 2250,
+      "height": 3000,
+      "path": "./photos/Orange Fantasy/DSF1413.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF1413.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF1413.placeholder.jpg"
+    },
+    {
+      "width": 2250,
+      "height": 3000,
+      "path": "./photos/Orange Fantasy/DSF6162.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF6162.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF6162.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 2250,
+      "path": "./photos/Orange Fantasy/DSF9132.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF9132.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF9132.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 2250,
+      "path": "./photos/Orange Fantasy/DSF3278.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF3278.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF3278.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 2000,
+      "path": "./photos/Orange Fantasy/DSF9740.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF9740.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF9740.placeholder.jpg"
+    },
+    {
+      "width": 2250,
+      "height": 3000,
+      "path": "./photos/Orange Fantasy/DSF0038.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF0038.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF0038.placeholder.jpg"
+    },
+    {
+      "width": 3000,
+      "height": 1687,
+      "path": "./photos/Orange Fantasy/DSF9961.jpg",
+      "compressed_path": "./photos/Orange Fantasy/DSF9961.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Orange Fantasy/DSF9961.placeholder.jpg"
+    }
+  ],
   "Los Angeles": [
     {
       "width": 1500,
